@@ -20,14 +20,14 @@
 
 bl_info = {
     "name": "Scalable Vector Graphics (SVG) 1.1 format",
-    "author": "JM Soler, Sergey Sharybin",
-    "blender": (2, 57, 0),
-    "location": "File > Import > Scalable Vector Graphics (.svg)",
     "description": "Import SVG as curves",
-    "warning": "",
-    "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/"
-                "Scripts/Import-Export/SVG",
-    "support": 'OFFICIAL',
+    "author": "JM Soler, Sergey Sharybin, Madlaina Kalunder",
+    "version": (2, 0),
+    "blender": (2, 79, 0),
+    "location": "File > Import > Scalable Vector Graphics (.svg)",
+    "warning": "Add-on in development",
+    "wiki_url": "https://github.com/Aadjou/io-curve-svg"
+    "support": 'COMMUNITY',
     "category": "Import-Export",
 }
 
